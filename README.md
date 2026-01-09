@@ -2,12 +2,21 @@
 ## Hi there 👋
 
 <!--- region: Introduction -->
-My name is Beerent Huizer and I am a graphics/engine programming enthusiast.
+My name is Beerent Huizer and I am a graphics/engine programming enthusiast.<br>
+I currently study _Creative Media and Game Technologies_ at _Saxion University of applied sciences_ following the engineering path.
 
 <!--- region: Detailed information -->
 <details markdown='1'><summary>My story</summary>
 TBC.
 </details>
+
+
+I am currently looking for internship opportunities. If my portfolio interests you, please reach out to me through one of the following channels.
+
+<!--- region: Contact -->
+## Contact Me!
+[![Gmail](https://img.shields.io/badge/GMail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)](mailto:beer.huizer@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logoColor=white&logoSize=auto)](https://www.linkedin.com/in/beerent-huizer-154582227/)
 
 <!--- region: Languages -->
 ## Experiences
@@ -27,7 +36,3 @@ TBC.
 [![Fork](https://img.shields.io/badge/Fork-0c94c8?style=for-the-badge&logoColor=white)]()
 [![VCPkg](https://img.shields.io/badge/vcpkg-yellow?style=for-the-badge&logoColor=white&logoSize=auto)](https://vcpkg.io/en/)
 
-<!--- region: Contact -->
-## Contact Me!
-[![Gmail](https://img.shields.io/badge/GMail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)](mailto:beer.huizer@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logoColor=white&logoSize=auto)](https://www.linkedin.com/in/beerent-huizer-154582227/)

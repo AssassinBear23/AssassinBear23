@@ -3,7 +3,7 @@
 
 <!--- region: Introduction -->
 My name is Beerent Huizer and I am a graphics/engine programming enthusiast.<br>
-I am currently studying _Creative Media and Game Technologies_ at _Saxion University of applied sciences_ following the engineering path.
+I am currently studying _Creative Media and Game Technologies_ at _Saxion University of Applied Sciences_ following the engineering path.
 
 <!--- region: Detailed information -->
 <details markdown='1'><summary>My story</summary>
